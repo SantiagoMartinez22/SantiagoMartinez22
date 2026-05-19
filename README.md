@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Santiago Martinez</h1>
-<h3 align="center">A passionate Computer Science Student and Devops Engineer</h3>
+<h3 align="center">A passionate Computer Science Student and Cloud</h3>
 
-# 💫 About Me:
--I’m currently working as Devops Engineer<br>-I’m currently learning System Design and Cloud Solutions<br>-Ask me about Backend, Devops and Cloud<br>
+# About Me:
+-I’m currently learning System Design and Cloud Solutions<br>-Ask me about Backend, Devops and Cloud<br>
 
 
 ## 🌐 Socials:
